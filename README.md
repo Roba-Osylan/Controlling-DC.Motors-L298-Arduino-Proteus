@@ -17,6 +17,7 @@ The components used are:
 
 2- Circuit Connection
 See the figure or follow the instructions below.
+![DC-Motors Circuit](https://user-images.githubusercontent.com/85955049/122925331-6688bd00-d36f-11eb-98a6-77cc3da85c1e.png)
 
 -Connect ENA, IN1, IN2, IN3 IN4, ENB pins of the L298 with the pins 12, 9, 6, 5, 3, 2 of the Arduino respectively. 
 -Connect the 12V battery to the 12V input of the L298, one 5V battery to the 5V input of the L298 and the other to the 5V pin on the Arduino. 
@@ -25,3 +26,5 @@ See the figure or follow the instructions below.
 
 #Code 
 After writing the code on Arduino, export the code to a compiled binary file (HEX extention) or simply download the code uploaded in the repository with the name "DC-Motors.ino.standard.hex". Next, upload the code file to the Arduino model on Proteus.
+
+The code is written to rotate the motors on all directions forward, backward, right and left. Finally, the motors stop and reapate the program all over again.
