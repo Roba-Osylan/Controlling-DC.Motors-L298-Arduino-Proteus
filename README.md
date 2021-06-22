@@ -1,5 +1,5 @@
 # Controlling-DC.Motors-L298-Arduino-Proteus
-Through this project, two DC motors are controlled using arduino and drived using H-Bridge L298 Motor Driver. Motor drivers are widely used in robotica and they are able to control both the direction and the speed of the motor (maximum speed of 255 for the L298). The simulation tool that will be used is Proteus 8, however, TINKERCAD may be used as well. In the following section we will see how to add the Arduino and L298 libraries to Proteus.
+Through this project, two DC motors are controlled using arduino and drived using H-Bridge L298 Motor Driver. Motor drivers are widely used in robotics and they are able to control both the direction and the speed of the motor (maximum speed of 255 for the L298). The simulation tool that will be used is Proteus 8, however, TINKERCAD may be used as well. In the following section we will see how to add the Arduino and L298 libraries to Proteus libraries.
 
 # Adding Arduino and L298 Libraries and Models 
 Please follow the instructions explained on the links
