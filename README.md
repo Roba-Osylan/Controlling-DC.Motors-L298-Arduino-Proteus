@@ -27,4 +27,4 @@ See the figure or follow the instructions below.
 #Code 
 After writing the code on Arduino, export the code to a compiled binary file (HEX extention) or simply download the code uploaded in the repository with the name "DC-Motors.ino.standard.hex". Next, upload the code file to the Arduino model on Proteus.
 
-The code is written to rotate the motors on all directions forward, backward, right and left. Finally, the motors stop and reapate the program all over again.
+The code is written to rotate the motors on all directions forward, backward, right and left. Finally, the motors stop and repeat the program all over again.
